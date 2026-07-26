@@ -35,7 +35,7 @@ The connections are
 
 For every `n ≥ 0`, larger patterns are obtained by arranging four copies of the previous patterns in a 2×2 grid.
 
-```
+```text
 A_{n+1}
 
 +-----+-----+
@@ -45,7 +45,7 @@ A_{n+1}
 +-----+-----+
 ```
 
-```
+```text
 B_{n+1}
 
 +-----+-----+
@@ -79,5 +79,5 @@ The generated images for `A₉` and `B₉` are too large to be included in this 
 
 They are available on Google Drive instead:
 
-- **A₉:** https://drive.google.com/file/d/1oIu-trwmm56rFLJ6CMdE5XsxNsLCguG2/view?usp=sharing
-- **B₉:** https://drive.google.com/file/d/1ldMG0ZWsKmrtR83zuncmWNr118iBIAcI/view?usp=sharing
+- **A₉:** [A9 (Google Drive)](https://drive.google.com/file/d/1oIu-trwmm56rFLJ6CMdE5XsxNsLCguG2/view?usp=sharing)
+- **B₉:** [B9 (Google Drive)](https://drive.google.com/file/d/1ldMG0ZWsKmrtR83zuncmWNr118iBIAcI/view?usp=sharing)
